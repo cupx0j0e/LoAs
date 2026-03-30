@@ -1,0 +1,1 @@
+RTL implementation of LoAS - a low-latency inference accelerator for dual-sparse spiking neural networks using fully temporal-parallel dataflow, enabling up to 8.51× speedup over prior SNN accelerators.
